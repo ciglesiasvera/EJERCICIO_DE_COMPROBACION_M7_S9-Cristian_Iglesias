@@ -1,0 +1,41 @@
+CUE: CRUD EM DJANGO
+
+REBOUND EXERCISE: VISUALIZANDO UN CRUD EN DJANGO
+
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: Crud en 
+Django.
+
+EJERCICIO:
+
+Partiendo del modelo creado en el ejercicio del CUE anterior del Rebound y Drilling, realizar las 
+siguientes consultas:
+
+1. Crear el template de los productos, las vistas y la URLs que muestran la información de los 
+productos al ingresar en: http://localhost:8000/producto/. 
+
+2. Crear el proceso de los productos, las vistas y la URLs que muestran la información de los 
+productos al ingresar en: http://localhost:8000/producto/
+
+                                Información de Productos
+        
+    --------------------  ----------  ------------------------------  ------------------
+    |      Nombre      |  | Precio |  |        Descripción         |  |  Vencimiento   |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Colgate 360       |  |1850.00 |  |Crema Dental                |  |Feb. 29, 2024   |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Speed Stick 27/7  |  |1500.00 |  |Desodorante para caballeros |  |April 14, 2023  |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Protex Aloe       |  |1250.00 |  |Jabón de Baño               |  |Oct. 27, 2023   |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Downy Aroma Floral|  |3500.00 |  |Ambientador de aroma floral |  |May 22, 2025o   |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Crest Premium     |  |2500.00 |  |Crema dental                |  |Nov. 1, 2024    |
+    --------------------  ----------  ------------------------------  ------------------
+    --------------------  ----------  ------------------------------  ------------------
+    |Ariel Suavisante  |  |1500.00 |  |Suavisante para la ropa     |  |June 11, 2027   |
+    --------------------  ----------  ------------------------------  ------------------
